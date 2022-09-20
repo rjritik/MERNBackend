@@ -1,1 +1,1 @@
-# MERNBackend
+# rsd-customerportal-backend
